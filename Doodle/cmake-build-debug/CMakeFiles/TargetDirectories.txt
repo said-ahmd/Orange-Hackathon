@@ -1,0 +1,3 @@
+/home/said/said/projects/hacka/doodle/cmake-build-debug/CMakeFiles/hackathonProjrct.dir
+/home/said/said/projects/hacka/doodle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/said/said/projects/hacka/doodle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
